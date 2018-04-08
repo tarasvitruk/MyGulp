@@ -33,6 +33,7 @@ npm i gulp --save-dev
 // --> Upload plugins (Gulp) <-- //
 <br>
 // добавить плагины ...
+<br>
 npm i gulp gulp-sass browser-sync del gulp-autoprefixer gulp-cache gulp-concat gulp-cssnano gulp-imagemin gulp-rename gulp-uglifyjs imagemin-pngquant --save-dev
 <br>
 <br>
