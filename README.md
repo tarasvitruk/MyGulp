@@ -8,6 +8,7 @@ https://nodejs.org/en/
 // --> Install Global Gulp <-- //
 <br>
 // установить глобально gulp
+<br>
 npm install -g gulp
 <br>
 <br>
@@ -27,6 +28,7 @@ npm init
 // --> Install Local Gulp <-- // 
 <br>
 // создать папку с плагинами
+<br>
 npm i gulp --save-dev
 <br>
 <br>
