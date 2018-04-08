@@ -15,6 +15,7 @@ npm install -g gulp
 // --> Create "package.json" <-- //
 <br>
 // создать файл "package.json"
+<br>
 npm init
 <br>
 <br>
